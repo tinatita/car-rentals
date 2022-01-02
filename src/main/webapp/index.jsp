@@ -1,5 +1,5 @@
 <html>
 	<body>
-		<h1 style="color:rgb(115, 255, 0);">Massa is the best Girlfriend ever!!!!</h1>
+		<h1 style="color:yellow;">Welcome to Car Rentals App!</h1>
 	</body>
 </html>
